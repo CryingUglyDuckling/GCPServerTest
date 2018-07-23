@@ -1,5 +1,5 @@
 //make connection
-var socket=io.connect('https://joytugcptest.appspot.com');
+var socket=io.connect('http://35.200.172.255:65080');
 //query dom
 
 var message=document.getElementById('message');
